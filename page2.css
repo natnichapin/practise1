@@ -1,0 +1,507 @@
+
+
+
+
+#tab-right2{
+    margin-top: 28px;
+    background-color: rgb(74, 56, 104);
+    border-color: rgb(78, 51, 88);
+    width: 12%;
+    border-bottom: 0px;
+    
+
+}
+#tab-left{
+    background-color: rgb(74, 56, 104);
+    border-color: rgb(78, 51, 88);
+    width: 15%;
+    border-bottom: 0px;
+
+}
+
+.normalp2{
+    background: url(./p2/imgp2/tumblr_oc5hg2UWZf1qbg3s6o1_1280.gif) no-repeat 100% 50%;
+    background-size: 100%;
+   
+    
+
+    padding-bottom:10%; 
+    padding-top:-30px;
+    background-color: rgba(35, 46, 45, 0.7);
+    
+      font-size: 3em ;
+      color: rgb(255, 255, 255);
+      
+      overflow: hidden;
+      
+      padding-left: 2%;
+      width: 100%;
+      height: 300px;
+      text-shadow: 5px 5px 2px rgb(147, 154, 255);
+      font-weight: bolder;
+      
+}
+#tag-right{
+    background-color: rgb(56, 43, 80);
+    border-color: rgb(65, 49, 109);
+}
+
+.topnav { background-color: rgb(83, 50, 126);}
+.topnav a {background-color: rgb(111, 72, 175);}
+.dropdown .dropbtn {background-color: rgb(193, 181, 255);}
+.dropdown-content {background-color: rgb(32, 31, 32);}
+.dropdown-content a {background-color: rgb(99, 168, 224);}
+.topnav a:hover, .dropdown:hover .dropbtn {background-color: rgb(71, 122, 163);}
+div.center{ border-color: rgb(126, 81, 168); border-color: rgb(68, 59, 126); }
+
+.box{
+    margin-top: 3%;
+    width: 500px;
+    height: 200px;
+    position: relative;
+    margin-left:5%;
+} 
+div.center{
+    margin-left: 15%;
+    width: 82.8%;
+    
+    
+}
+/* Style the tab */
+.tabp2_1 {
+    overflow: hidden;
+    height: 70px;
+    box-shadow: 0.5em 0.5em 2em rgb(58, 49, 68);
+    background-color: rgba(92, 74, 126, 0.8);
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgb(231, 187, 243);
+  }
+  
+  /* Style the buttons inside the tab */
+  .tabp2_1 button {
+    background-color: rgba(179, 114, 209, 0.8);
+    color: rgb(0, 0, 0);
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+    width: 150px;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-left: 7px; 
+    margin-top: 1%;
+    border:1px solid rgb(118, 77, 165) ;
+    font: 1em 'Sriracha', cursive;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tabp2_1 button:hover {
+    background-color: rgb(170, 146, 228);
+    border-radius: 15px;
+    border:3px solid rgb(201, 207, 255) ;
+
+  }
+  
+  /* Create an active/current tablink class */
+  .tabp2_1 button.active {
+    background-color: rgb(168, 145, 199);
+    border-radius: 15px;
+    margin-right: 10px;
+    border:3px solid rgb(255, 255, 255) ;
+  }
+  
+  /* Style the tab content */
+  .tabcontentp2_1{
+    display: none;
+    height: 94.3%;
+    padding: 6px 12px;
+    
+    border-top: none;
+    background-color: rgba(0,0,0,0.5);
+    
+  }
+  .tabcontentp2_1 div{
+    font-family: 'Sriracha', cursive;
+  }
+  .highlight{
+      background-color: rgba(22, 22, 22, 0.5);
+      font-size: 105%;
+      padding: 20px;
+      margin-top: 5%;
+      margin-right: 20%;
+      margin-left: 3%;
+      width: 550px;
+      border-radius: 15px;
+      box-shadow:2em 2em 2em rgba(0, 0, 0, 0.5);
+
+  }
+  .highlight1{
+    background-color: rgba(0, 0, 0, 0.5);
+      font-size: 105%;
+      padding: 20px;
+     
+      margin-top: 15%;
+      margin-right: 20%;
+      margin-left: 50%;
+      width: 500px;
+      border-radius: 15px;
+      box-shadow:2em 2em 2em rgba(0, 0, 0, 0.5);
+      height: 35%;
+
+  }
+  .highlight2{
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 106%;
+    padding: 20px;
+    margin-top: 5%;
+    
+    margin-left: 2%;
+    width: 1000px;
+    border-radius:  15px;
+    box-shadow:2em 2em 2em rgba(0, 0, 0, 0.5),0em -0.2em 2em  rgb(0, 0, 0);;
+    
+    height: 500px;
+
+}
+  
+  
+  div.footer{
+      border-color:rgb(44, 42, 56);
+  }
+  img#sayaka{
+    margin-top: -5%;
+     
+      float: right;
+      margin-right: 5px;
+      
+      
+  }
+ 
+  .character{
+      display:flex;
+    width: 100%;
+    height: 50%;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    flex-direction: row;
+  }
+  
+img.logomadoka{ 
+    position: absolute;
+    width: 80% ;
+    
+}
+img#homura1{
+  margin-left: 5px;
+  margin-top: 0%;
+  float: left;
+}
+.line{
+  border-color: rgb(181, 138, 238) ;
+}
+
+
+a#Official{
+  font: 0.8em 'Sriracha', cursive;
+  text-decoration: none;
+  color: rgb(95, 18, 95);
+}
+a#Official:hover{
+  color: rgb(255, 255, 255);
+  transition: 0.7s;
+}
+button.madoka1{
+  margin-top: 20px;
+  color: rgb(68, 33, 82);
+  font-weight: bolder;
+  display: block;
+  font-size: 300%;
+  background-color: rgba(248, 198, 255, 0.7);
+  border-radius: 30px;
+  width: 300px;
+  height: 100px;
+  box-shadow: 0.5em 0.5em 1em black;
+ border: 0px;
+}
+
+button.madoka1:hover{
+  background-color: rgb(136, 115, 196);
+  
+}
+button.madoka1:active{
+  background-color: rgb(139, 99, 177);
+  
+}
+
+img#madoka{
+  margin-left: 5px;
+  margin-top: 5%;
+  float: left;
+}
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #39314b;
+  margin: auto;
+  padding: 0;
+  
+  width: 60%;
+  height: 600px;
+
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0} 
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal-header {
+  padding: 2px 16px;
+  background-color: #452c6d;
+  color: rgb(255, 255, 255);
+}
+
+.modal-body {padding: 2px 16px;
+
+height: 600px;}
+
+
+.divvideomadoka{
+  margin-left: -1.2%;
+  width: 103%;
+  height: 491px;
+  background-color: rgba(248, 248, 248, 0.7);
+  
+  border-top:2px solid rgb(68, 45, 82) ;
+  
+  background-image: url(./p2/imgp2/1fa532e36208bb5aaa2e070f65bf2ae2.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 20%;
+  border-top: 50px solid rgb(40, 28, 41);
+  
+  
+}
+  button.video{
+    font: 15em 'Sriracha', cursive;
+    font-size: 500%;
+    margin-top: 13%;
+    color: rgb(217, 144, 223);
+    margin-left: 28%;
+    width: 500px;
+    height: 150px;
+    border-radius: 35px;
+    background-color: rgba(132, 84, 177, 0.5);
+  border: 0px solid white;
+  }
+  button.video:hover{ 
+    color: rgb(255, 255, 255);
+   font-size: 550%;
+    background-color: rgb(22, 18, 24);
+    box-shadow: 0.1em 0.2em 0.5em rgb(0, 0, 0);
+    transition: 0.5s;
+  }
+  iframe.Trailer{
+    padding-top: 3%;
+    padding-left: 2%;
+    width: 850px;
+    height: 480px;
+  
+  }
+  .Connect{
+    margin-right: 10px;
+    float: right;
+    border: 2px solid rgb(207, 180, 228);
+    background-color: rgb(224, 202, 240);
+    
+  }
+  source.connect{
+    background-color: black;
+  }
+  .container{
+    position: absolute;
+    display:flex;
+    margin-top: 2%;
+  margin-left: 80px;
+    background-color:rgba(255, 255, 255, 0.1) ;
+    
+      height: 500px;
+      width: 940px;
+      
+  
+  }
+  .container-2{
+    position: absolute;
+    display:flex;
+    
+    margin-top: 2%;
+  margin-left: 80px;
+    background-color:rgba(255, 255, 255, 0.0) ;
+    z-index: 1;
+      height: 500px;
+      width: 952px;
+      opacity: 100%;
+  }
+  
+  .char_textouter{
+    margin-left: 5px;
+    
+    padding-bottom: 25px;
+    margin-top: -25px;
+  }
+  .container-2 div:hover{
+    opacity: 0; 
+    transition: 0.7s;
+  }
+ 
+  
+  .container>div,.container1 > div{
+   
+    width: 600px;
+    height: 500px;
+    background-color: rgb(90, 48, 90);
+    margin-right: 20px;
+    font-size: small;
+    text-align: center;
+    padding: 0px 2px;
+
+  }
+  .container-2>div,.container1-2>div {
+    width: 600px;
+    height: 500px;
+    background-color: rgb(36, 7, 36);
+    margin-right: 20px;
+    font-size: small;
+    text-align: center;
+    padding: 0px 2px;
+  }
+  
+  .container1{
+    position: absolute;
+    display:flex;
+    margin-top: 48%;
+  margin-left: 80px;
+    background-color:rgba(131, 78, 192, 0.1) ;
+    
+      height: 500px;
+      width: 940px;
+  }
+  .container1-2{
+    position: absolute;
+    display:flex;
+    margin-top: 48%;
+  margin-left: 80px;
+    background-color:rgba(255, 255, 255, 0.0) ;
+    
+      height: 500px;
+      width: 940px;
+  }
+ 
+  .container1-2 div:hover{
+    
+    opacity: 0;
+    transition: 0.7s;
+  }
+  
+  .thaiLng{
+    font-family: 'Sriracha', cursive;
+font-size: 18px;
+
+line-height: 180%;
+  }
+
+
+
+
+
+
+
+
+
+
+  
+  /* .tabcharacter1 button {
+      margin-top: 5%;
+      border-radius:  0px 20px 20px 0px;
+    display: block;
+    background-color: inherit;
+    background-color: rgb(93, 91, 185);
+    
+    padding: 22px 16px;
+    width: 170%;
+    
+    color: rgb(255, 255, 255);
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+ 
+  .tabcharacter1 button:hover {
+    background-color: #ddd;
+  }
+  
+  
+  .tabcharacter1 button.active {
+    background-color: #ccc;
+  }
+  
+  
+  .tabcontentcharacter1 {
+    position: relative;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 20%;
+    border-left: none;
+    height: 20px;
+  } */
+
+
+ 
